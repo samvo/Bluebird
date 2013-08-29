@@ -6,6 +6,7 @@ Copyright 2009–2012 Pasi Lallinaho, Simon Steinbeiß
 Bluebird is dual-licensed as GPLv2 or later and CC-BY-SA 3.0 or later.
 
 Contributors:
+ * Satyajit Sahoo
  * Markus Klinga
  * Lawand
 
@@ -16,5 +17,3 @@ The Bluebird desktop suite includes:
 – GTK+ themes
 – xfwm theme
 – metacity theme (by Oleg Olegovich)
-– Wallpaper with Xubuntu branding and without, as well as the SVG source
-– elementaryXubuntu-dark, which is to supplement the elementary icon theme by Daniel Foré.
